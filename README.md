@@ -1,5 +1,5 @@
 # Sort_school_files
-Sorts school files by class name and assignment name
+Intended to sorts school files by class name and assignment name
 
 The main script is sort_files.py 
 
